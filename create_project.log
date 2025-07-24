@@ -1,0 +1,32 @@
+2025-07-24 15:09:29,429 - Created directory: .github\workflows
+2025-07-24 15:09:29,429 - Created empty file: .github/workflows/.gitkeep
+2025-07-24 15:09:29,429 - Created directory: src\datascience
+2025-07-24 15:09:29,429 - Created empty file: src/datascience/__init__.py
+2025-07-24 15:09:29,429 - Created directory: src\datascience\components
+2025-07-24 15:09:29,429 - Created empty file: src/datascience/components/__init__.py
+2025-07-24 15:09:29,429 - Created directory: src\datascience\utils
+2025-07-24 15:09:29,429 - Created empty file: src/datascience/utils/__init__.py
+2025-07-24 15:09:29,429 - Created directory: src\datascience\utils
+2025-07-24 15:09:29,429 - Created empty file: src/datascience/utils/common.py
+2025-07-24 15:09:29,434 - Created directory: src\datascience\config
+2025-07-24 15:09:29,434 - Created empty file: src/datascience/config/__init__.py
+2025-07-24 15:09:29,434 - Created directory: src\datascience\config
+2025-07-24 15:09:29,434 - Created empty file: src/datascience/config/configuration.py
+2025-07-24 15:09:29,434 - Created directory: src\datascience\pipeline
+2025-07-24 15:09:29,434 - Created empty file: src/datascience/pipeline/__init__.py
+2025-07-24 15:09:29,436 - Created directory: src\datascience\entity
+2025-07-24 15:09:29,436 - Created empty file: src/datascience/entity/__init__.py
+2025-07-24 15:09:29,436 - Created directory: src\datascience\entity
+2025-07-24 15:09:29,437 - Created empty file: src/datascience/entity/config_entity.py
+2025-07-24 15:09:29,437 - Created directory: src\datascience\constants
+2025-07-24 15:09:29,437 - Created empty file: src/datascience/constants/__init__.py
+2025-07-24 15:09:29,437 - Created directory: config
+2025-07-24 15:09:29,438 - Created empty file: config/config.yaml
+2025-07-24 15:09:29,438 - Created empty file: params.yaml
+2025-07-24 15:09:29,438 - Created empty file: schema.yaml
+2025-07-24 15:09:29,439 - Created empty file: main.py
+2025-07-24 15:09:29,440 - Created empty file: Dockerfile
+2025-07-24 15:09:29,440 - Created directory: research
+2025-07-24 15:09:29,440 - Created empty file: research/research.ipynb
+2025-07-24 15:09:29,440 - Created directory: templates
+2025-07-24 15:09:29,441 - Created empty file: templates/index.html
